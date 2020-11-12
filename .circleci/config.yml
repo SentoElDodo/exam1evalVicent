@@ -15,4 +15,4 @@ jobs:
       - ruby/bundle-install
       
       -run:
-      hecho "Hola"
+      echo "Hola"
