@@ -13,3 +13,6 @@ jobs:
           name: Hola Vicent
           command: bundle -v
       - ruby/bundle-install
+      
+      -run:
+      hecho "Hola"
